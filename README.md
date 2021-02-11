@@ -27,3 +27,7 @@ It contains interview preparation notes provided by iNeuron.
 6. Data informed product building: [Link](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
 7. Metric: [Link](https://productlessons.substack.com/p/what-to-do-when-your-metrics-dip), [Link](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions)
 8. Into to Linear Algebra: [Link](https://pabloinsente.github.io/intro-linear-algebra)
+9. IMS data sources: [Link](https://csimarket.com/stocks/segments.php?code=RX)
+10. Predictive model performance check: [ListenData](https://www.listendata.com/2015/01/model-performance-in-logistic-regression.html)
+11. Case Study: [Link](https://hackingthecaseinterview.thinkific.com/pages/market-entry-case-interview)
+12.  Collection of cases: [Link](https://hackingthecaseinterview.thinkific.com/pages/articles)
